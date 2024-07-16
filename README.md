@@ -5,9 +5,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-1372&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-1372" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krushalpatel&label=Profile%20views&color=0e75b6&style=flat" alt="krushalpatel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-1372" alt="vishal-1372" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushalpatel" alt="krushalpatel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
